@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Wilyz360
+- 👋 Hi, I’m William Zhicay
 - 👀 I’m interested in video games, software and web development
 - 🌱 I’m currently learning js and c++
 - 💞️ I’m looking to collaborate on projects that benefits the community
